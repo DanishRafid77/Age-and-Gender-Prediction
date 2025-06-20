@@ -1,2 +1,1 @@
-# Age-and-Gender-Prediction
-Age and Gender Prediction
+With CNN and Tensorflow, I created a age and gender prediction model. First run the training model, then the test model. Or install the h5 model (readily trained) and run the test model.
